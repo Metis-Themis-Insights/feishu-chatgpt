@@ -3,7 +3,7 @@
 </p>
 
 <details align='center'>
-    <summary> 📷 点击展开完整功能截图</summary>
+    <summary> 点击展开完整功能截图</summary>
     <br>
     <p align='center'>
     <img src='https://user-images.githubusercontent.com/50035229/224493411-085ba405-81cd-4972-b87b-74a2e811f23d.png' alt='语音对话' width='800'/>
@@ -21,7 +21,7 @@
    飞书 ×（GPT-3.5 + DALL·E + Whisper）
 <br>
 <br>
-    🚀 Feishu OpenAI 🚀
+     Feishu OpenAI 
 </p>
 
 
@@ -59,13 +59,6 @@
 
 📊 表格分析：轻松导入飞书表格，提升数据分析效率 🚧
 
-
-## 🌟 项目特点
-
-- 🍏 基于 OpenAI-[gpt-3.5-turbo](https://platform.openai.com/account/api-keys) 接口
-- 🍎 通过 lark，将 ChatGPT 接入[飞书](https://open.feishu.cn/app)
-- 🥒 支持[Serverless 云函数](https://github.com/serverless-devs/serverless-devs)、[本地环境](https://dashboard.cpolar.com/login)、[Docker](https://www.docker.com/)、[二进制安装包](https://github.com/Leizhenpeng/feishu-chatgpt/releases/)多种渠道部署
-- 🍋 基于[goCache](https://github.com/patrickmn/go-cache)内存键值对缓存
 
 ## 项目部署
 
@@ -323,7 +316,7 @@ docker compose down
 ## 详细配置步骤
 
 <details align='left'>
-    <summary> 📸 点击展开飞书机器人配置的分步截图指导</summary>
+    <summary> 点击展开飞书机器人配置的分步截图指导</summary>
     <br>
     <p align='center'>
     <img src='https://user-images.githubusercontent.com/50035229/223943381-39e0466f-2a5e-472a-9863-94eafb5f17b0.png' alt='' width='800'/>
@@ -373,19 +366,4 @@ docker compose down
 
 更多介绍，参考[飞书上的小计算器: Go 机器人来啦](https://www.bilibili.com/video/BV12M41187rV/)
 
-## 更多交流
-
-如需协助部署，或者其他定制服务，可联系下面的WeChat，支持发票~
-
-遇到问题，可以加入飞书群沟通~
-
-<img src='./docs/talk.png' alt='' width='200'/>
-
-## 交朋友 或者 鼓励一下
-
-如果你觉得这个项目对你有帮助，可以请作者买本书~
-
-<img width="400" src="https://user-images.githubusercontent.com/50035229/224462896-28f7b2d5-f443-4cc2-9790-7b72e5c53f15.png">
-
-😚 谢谢你啦 😚
 
